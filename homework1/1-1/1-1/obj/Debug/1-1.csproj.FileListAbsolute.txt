@@ -1,0 +1,5 @@
+C:\Users\zhangxiang\Desktop\c#作业\1-1\1-1\bin\Debug\1-1.exe.config
+C:\Users\zhangxiang\Desktop\c#作业\1-1\1-1\bin\Debug\1-1.exe
+C:\Users\zhangxiang\Desktop\c#作业\1-1\1-1\bin\Debug\1-1.pdb
+C:\Users\zhangxiang\Desktop\c#作业\1-1\1-1\obj\Debug\1-1.exe
+C:\Users\zhangxiang\Desktop\c#作业\1-1\1-1\obj\Debug\1-1.pdb
