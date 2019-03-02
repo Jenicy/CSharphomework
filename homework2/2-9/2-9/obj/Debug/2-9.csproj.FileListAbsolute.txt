@@ -1,0 +1,6 @@
+C:\Users\zhangxiang\Desktop\c#作业\2-9\2-9\bin\Debug\2-9.exe.config
+C:\Users\zhangxiang\Desktop\c#作业\2-9\2-9\bin\Debug\2-9.exe
+C:\Users\zhangxiang\Desktop\c#作业\2-9\2-9\bin\Debug\2-9.pdb
+C:\Users\zhangxiang\Desktop\c#作业\2-9\2-9\obj\Debug\2-9.csprojResolveAssemblyReference.cache
+C:\Users\zhangxiang\Desktop\c#作业\2-9\2-9\obj\Debug\2-9.exe
+C:\Users\zhangxiang\Desktop\c#作业\2-9\2-9\obj\Debug\2-9.pdb
