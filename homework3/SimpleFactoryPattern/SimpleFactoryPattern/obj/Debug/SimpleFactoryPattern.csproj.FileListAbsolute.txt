@@ -1,0 +1,6 @@
+C:\Users\zhangxiang\Desktop\c#作业\SimpleFactoryPattern\SimpleFactoryPattern\bin\Debug\SimpleFactoryPattern.exe.config
+C:\Users\zhangxiang\Desktop\c#作业\SimpleFactoryPattern\SimpleFactoryPattern\bin\Debug\SimpleFactoryPattern.exe
+C:\Users\zhangxiang\Desktop\c#作业\SimpleFactoryPattern\SimpleFactoryPattern\bin\Debug\SimpleFactoryPattern.pdb
+C:\Users\zhangxiang\Desktop\c#作业\SimpleFactoryPattern\SimpleFactoryPattern\obj\Debug\SimpleFactoryPattern.csprojResolveAssemblyReference.cache
+C:\Users\zhangxiang\Desktop\c#作业\SimpleFactoryPattern\SimpleFactoryPattern\obj\Debug\SimpleFactoryPattern.exe
+C:\Users\zhangxiang\Desktop\c#作业\SimpleFactoryPattern\SimpleFactoryPattern\obj\Debug\SimpleFactoryPattern.pdb
