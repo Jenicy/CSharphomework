@@ -1,0 +1,6 @@
+C:\Users\zhangxiang\Desktop\c#作业\orderManagement\orderManagement\bin\Debug\orderManagement.exe.config
+C:\Users\zhangxiang\Desktop\c#作业\orderManagement\orderManagement\bin\Debug\orderManagement.exe
+C:\Users\zhangxiang\Desktop\c#作业\orderManagement\orderManagement\bin\Debug\orderManagement.pdb
+C:\Users\zhangxiang\Desktop\c#作业\orderManagement\orderManagement\obj\Debug\orderManagement.csprojResolveAssemblyReference.cache
+C:\Users\zhangxiang\Desktop\c#作业\orderManagement\orderManagement\obj\Debug\orderManagement.exe
+C:\Users\zhangxiang\Desktop\c#作业\orderManagement\orderManagement\obj\Debug\orderManagement.pdb
