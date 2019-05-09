@@ -1,0 +1,2 @@
+C:\Users\zhangxiang\Desktop\c#作业\Homework8teacher\ordertest\bin\Debug\ordertest.exe.config
+C:\Users\zhangxiang\Desktop\c#作业\Homework8teacher\ordertest\obj\Debug\ordertest.csprojResolveAssemblyReference.cache
