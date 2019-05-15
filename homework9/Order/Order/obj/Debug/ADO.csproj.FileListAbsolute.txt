@@ -1,0 +1,3 @@
+C:\Users\zhangxiang\Desktop\c#作业\homework9\Order\Order\obj\Debug\ADO.csprojAssemblyReference.cache
+C:\Users\zhangxiang\Desktop\c#作业\homework9\Order\Order\obj\Debug\Order.exe.config
+C:\Users\zhangxiang\Desktop\c#作业\homework9\Order\Order\obj\Debug\ADO.csproj.CoreCompileInputs.cache
